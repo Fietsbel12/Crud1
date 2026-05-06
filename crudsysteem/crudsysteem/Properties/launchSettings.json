@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "crudsysteem (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "crudsysteem (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
